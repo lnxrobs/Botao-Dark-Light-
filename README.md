@@ -1,2 +1,2 @@
 # Botao-Dark-Light-
-Um codigo simples que utilizarei para construcao do meu portifolio 
+Um botão construido para HTML, utilizei CSS para estilização e JavaScript para atrelar uma funcionalidade.

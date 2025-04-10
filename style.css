@@ -14,7 +14,7 @@ body {
     align-items: center;
     flex-direction: column;
     background-color: #000000; 
-    transition: 3s;  
+    transition: 2.3s;  
 
 
 }
@@ -41,7 +41,7 @@ color: #fff;
     transform: scale(.9);
     position: absolute;
     left: 0;
-    transition: .3s;
+    transition: 2.3s;
 }
 .trilho.dark{
 background-color: #c3c3c3;

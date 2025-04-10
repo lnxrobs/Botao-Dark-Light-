@@ -41,7 +41,7 @@ color: #fff;
     transform: scale(.9);
     position: absolute;
     left: 0;
-    transition: 9s;
+    transition: .9s;
 }
 .trilho.dark{
 background-color: #c3c3c3;
